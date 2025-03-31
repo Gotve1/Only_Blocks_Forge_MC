@@ -19,9 +19,6 @@ public class Main
 
     private static Logger logger;
 
-    @Mod.Instance(MODID)
-    public static Main instance;
-
     @SidedProxy(clientSide = "com.gotve.onlyblocks.proxy.ClientProxy",
                 serverSide = "com.gotve.onlyblocks.proxy.CommonProxy")
     public static CommonProxy proxy;
