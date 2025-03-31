@@ -11,10 +11,8 @@
       "model": "cross"
     },
     "inventory": {
-      "model": "cube_all",
-      "texture":{
-        "all": "onlyblocks:block/brick_2"
-      }
+      "model": "onlyblocks:item/green_bricks"
     }
-  }
+  },
+  "comment": "this json file is used to render the block in the world as 3d block, eg grass, dirt, stone, etc"
 }
