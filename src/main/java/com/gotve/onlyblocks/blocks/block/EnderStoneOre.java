@@ -1,4 +1,4 @@
-package com.gotve.onlyblocks.block;
+package com.gotve.onlyblocks.blocks.block;
 
 import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
@@ -8,9 +8,10 @@ import net.minecraft.world.World;
 
 public class EnderStoneOre extends BlockBase {
 
-    public EnderStoneOre(Material material, String name, float hardness, float resistance) {
-        super(material, name);
-        setHardness(hardness);
+    public EnderStoneOre() {
+        super(Material.ROCK, "enderstone_ore");
+        setHardness(2.0F);
+        setResistance(100.0F);
     }
 
     @Override

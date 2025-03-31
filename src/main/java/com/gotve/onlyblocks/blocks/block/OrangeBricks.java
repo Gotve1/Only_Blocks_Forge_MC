@@ -1,12 +1,12 @@
-package com.gotve.onlyblocks.block;
+package com.gotve.onlyblocks.blocks.block;
 
 import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
 
 public class OrangeBricks extends BlockBase {
 
-    public OrangeBricks(Material material, String name) {
-        super(material, name);
+    public OrangeBricks() {
+        super(Material.ROCK, "orange_bricks");
     }
 
     @Override

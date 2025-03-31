@@ -1,4 +1,4 @@
-package com.gotve.onlyblocks.block;
+package com.gotve.onlyblocks.blocks.block;
 
 import com.gotve.onlyblocks.Main;
 

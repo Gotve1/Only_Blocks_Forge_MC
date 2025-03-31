@@ -1,4 +1,4 @@
-package com.gotve.onlyblocks.block;
+package com.gotve.onlyblocks.blocks.block;
 
 import net.minecraft.block.material.Material;
 import net.minecraft.block.state.IBlockState;
@@ -7,8 +7,8 @@ import net.minecraft.util.BlockRenderLayer;
 
 public class GreenBricks extends BlockBase{
 
-    public GreenBricks (Material material, String name) {
-        super(material, name);
+    public GreenBricks () {
+        super(Material.ROCK, "green_bricks");
     }
 
     @Override
