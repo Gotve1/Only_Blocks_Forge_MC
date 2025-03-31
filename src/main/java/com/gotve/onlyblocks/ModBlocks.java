@@ -12,9 +12,22 @@ import net.minecraftforge.registries.IForgeRegistry;
 
 public class ModBlocks {
 
-    public static EnderStoneOre enderStoneOre = new EnderStoneOre(Material.ROCK, "enderstone_ore").setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
-    public static OrangeBricks orangeBricks = new OrangeBricks(Material.ROCK, "orange_bricks").setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
-    public static GreenBricks greenBricks = new GreenBricks(Material.ROCK, "green_bricks").setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+    public static EnderStoneOre enderStoneOre = new EnderStoneOre(
+                                            Material.ROCK,
+                                            "enderstone_ore",
+                                            2.0F,
+                                            1.0F)
+                                            .setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+
+    public static OrangeBricks orangeBricks = new OrangeBricks(
+                                            Material.ROCK,
+                                            "orange_bricks")
+                                            .setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+
+    public static GreenBricks greenBricks = new GreenBricks(
+                                            Material.ROCK,
+                                            "green_bricks")
+                                            .setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
 
     public static void register(IForgeRegistry<Block> registry) {
         registry.registerAll(
