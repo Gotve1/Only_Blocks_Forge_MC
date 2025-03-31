@@ -3,7 +3,7 @@
   "modid": "onlyblocks",
   "name": "Only Blocks",
   "description": "Example mod which adds some blocks",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "mcversion": "${mcversion}",
   "url": "https://github.com/Gotve1/Only_Blocks_Forge_MC",
   "updateUrl": "",

@@ -2,15 +2,19 @@
   "forge_marker": 1,
   "defaults": {
     "textures": {
-      "all": "onlyblocks:block/brick_2"
+      "all": "onlyblocks:block/brick_2",
+      "cross": "onlyblocks:block/brick_2"
     }
   },
   "variants": {
     "normal": {
-      "model": "cube_all"
+      "model": "cross"
     },
     "inventory": {
-      "model": "cube_all"
+      "model": "cube_all",
+      "texture":{
+        "all": "onlyblocks:block/brick_2"
+      }
     }
   }
 }
