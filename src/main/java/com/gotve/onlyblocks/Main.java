@@ -15,7 +15,7 @@ public class Main
 {
     public static final String MODID = "onlyblocks";
     public static final String NAME = "Only Blocks";
-    public static final String VERSION = "1.2.0";
+    public static final String VERSION = "1.2.3";
 
     private static Logger logger;
 

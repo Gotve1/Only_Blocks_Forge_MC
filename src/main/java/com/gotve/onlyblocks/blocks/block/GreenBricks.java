@@ -4,6 +4,9 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.util.BlockRenderLayer;
+import net.minecraft.util.math.AxisAlignedBB;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.world.IBlockAccess;
 
 public class GreenBricks extends BlockBase{
 
@@ -40,6 +43,14 @@ public class GreenBricks extends BlockBase{
     @Override
     public float getAmbientOcclusionLightValue(IBlockState state) {
         return 1.0F;
+    }
+
+    // Override the getCollisionBoundingBox method used to disable collision of the block
+    @Override
+    public AxisAlignedBB getCollisionBoundingBox(IBlockState state,
+                                                 IBlockAccess worldIn,
+                                                 BlockPos pos) {
+        return NULL_AABB;
     }
 
 }
