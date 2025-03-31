@@ -2,7 +2,7 @@
   "forge_marker": 1,
   "defaults": {
     "textures": {
-      "all": "examplemod:block/enderstone_ore"
+      "all": "onlyblocks:block/brick_1"
     }
   },
   "variants": {

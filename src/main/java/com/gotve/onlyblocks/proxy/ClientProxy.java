@@ -1,7 +1,6 @@
-package com.gotve.examplemod.proxy;
+package com.gotve.onlyblocks.proxy;
 
-import com.gotve.examplemod.proxy.CommonProxy;
-import com.gotve.examplemod.Main;
+import com.gotve.onlyblocks.Main;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;

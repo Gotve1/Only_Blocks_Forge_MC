@@ -1,6 +1,6 @@
-package com.gotve.examplemod.block;
+package com.gotve.onlyblocks.block;
 
-import com.gotve.examplemod.Main;
+import com.gotve.onlyblocks.Main;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;

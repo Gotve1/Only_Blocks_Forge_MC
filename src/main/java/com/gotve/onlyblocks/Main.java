@@ -1,31 +1,28 @@
-package com.gotve.examplemod;
+package com.gotve.onlyblocks;
 
-import com.gotve.examplemod.proxy.CommonProxy;
+import com.gotve.onlyblocks.proxy.CommonProxy;
 import net.minecraft.init.Blocks;
-import net.minecraft.item.Item;
-import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import org.apache.logging.log4j.Logger;
 
 @Mod(modid = Main.MODID, name = Main.NAME, version = Main.VERSION)
 public class Main
 {
-    public static final String MODID = "examplemod";
-    public static final String NAME = "Example Mod";
-    public static final String VERSION = "1.0";
+    public static final String MODID = "onlyblocks";
+    public static final String NAME = "Only Blocks";
+    public static final String VERSION = "1.1";
 
     private static Logger logger;
 
     @Mod.Instance(MODID)
     public static Main instance;
 
-    @SidedProxy(clientSide = "com.gotve.examplemod.proxy.ClientProxy",
-                serverSide = "com.gotve.examplemod.proxy.CommonProxy")
+    @SidedProxy(clientSide = "com.gotve.onlyblocks.proxy.ClientProxy",
+                serverSide = "com.gotve.onlyblocks.proxy.CommonProxy")
     public static CommonProxy proxy;
 
     @EventHandler

@@ -1,4 +1,4 @@
-package com.gotve.examplemod;
+package com.gotve.onlyblocks;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;

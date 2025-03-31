@@ -1,15 +1,15 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
+  "modid": "onlyblocks",
+  "name": "Only Blocks",
+  "description": "Example mod which adds some blocks",
+  "version": "1.1.0",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/Gotve1/Only_Blocks_Forge_MC",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authorList": ["Gotve"],
+  "credits": "",
+  "logoFile": "gotve.jpg",
   "screenshots": [],
   "dependencies": []
 }

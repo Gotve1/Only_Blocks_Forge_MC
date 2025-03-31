@@ -1,17 +1,16 @@
-package com.gotve.examplemod.block;
-
+package com.gotve.onlyblocks.block;
 
 import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
 
-public class EnderStoneOre extends BlockBase {
+public class OrangeBricks extends BlockBase {
 
-    public EnderStoneOre(Material material, String name) {
+    public OrangeBricks(Material material, String name) {
         super(material, name);
     }
 
     @Override
-    public EnderStoneOre setCreativeTab(CreativeTabs tab) {
+    public OrangeBricks setCreativeTab(CreativeTabs tab) {
         super.setCreativeTab(tab);
         return this;
     }
