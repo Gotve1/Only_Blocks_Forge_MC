@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "half=top": { "model": "onlyblocks:top_half_orange_brick_slab" },
-    "half=bottom": { "model": "onlyblocks:bottom_half_orange_brick_slab" }
-  }
-}
