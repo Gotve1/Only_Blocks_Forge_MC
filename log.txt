@@ -1,0 +1,748 @@
+ElyPrismLauncher version: 9.2 (official)
+
+
+Launched instance in online mode
+
+account.ely.by resolves to:
+    [195.201.80.5]
+
+
+ely.by resolves to:
+    [195.201.80.5]
+
+
+Minecraft folder is:
+C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/instances/Vanila+/minecraft
+
+
+Java path is:
+C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/java/jre-legacy/bin/javaw.exe
+
+
+Java is version 1.8.0_51, using 64 (amd64) architecture, from Oracle Corporation.
+
+
+Main Class:
+  net.minecraft.launchwrapper.Launch
+
+Native path:
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/instances/Vanila+/natives
+
+Libraries:
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/mojang/patchy/1.3.9/patchy-1.3.9.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/google/guava/guava/21.0/guava-21.0.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar
+
+Native libraries:
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar
+  C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3-natives-windows.jar
+
+Mods:
+  [✔] AppleSkin-mc1.12-1.0.14
+  [✔] Hwyla
+  [✔] jei
+  [✔] onlyblocks-1.2.3
+  [✔] OptiFine_1.12.2_HD_U_G5
+  [✔] Xaeros_Minimap_25.2.0_Forge_1.12
+  [✔] XaerosWorldMap_1.39.4_Forge_1.12
+
+Params:
+  --username  --version 1.12.2 --gameDir C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/instances/Vanila+/minecraft --assetsDir C:/Users/Sunrise/AppData/Roaming/ElyPrismLauncher/assets --assetIndex 1.12 --uuid  --accessToken  --userType  --versionType release --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker
+
+Window size: 854 x 480
+
+Launcher: standard
+
+Java Arguments:
+[-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Xms512m, -Xmx4096m, -Duser.language=en]
+
+
+Minecraft process ID: 1644
+
+
+2025-04-02 11:20:32,627 main ERROR Error processing element Queue ([Appenders: null]): CLASS_NOT_FOUND
+2025-04-02 11:20:32,830 main ERROR Unable to locate appender "ServerGuiConsole" for logger config "root"
+[11:20:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:20:32] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:20:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:20:32] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[11:20:32] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at C:\Users\Sunrise\AppData\Roaming\ElyPrismLauncher\java\jre-legacy
+[11:20:33] [main/INFO] [FML]: Searching C:\Users\Sunrise\AppData\Roaming\ElyPrismLauncher\instances\Vanila+\minecraft\mods for mods
+[11:20:33] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[11:20:33] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_25.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:20:33] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[11:20:33] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.39.4_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:20:33] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[11:20:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:20:33] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[11:20:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:20:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:20:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:20:33] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[11:20:33] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[11:20:33] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[11:20:33] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[11:20:33] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\Sunrise\AppData\Roaming\ElyPrismLauncher\instances\Vanila+\minecraft\mods\OptiFine_1.12.2_HD_U_G5.jar
+[11:20:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2025-04-02 11:20:34,732 main ERROR Error processing element Queue ([Appenders: null]): CLASS_NOT_FOUND
+2025-04-02 11:20:34,748 main ERROR Unable to locate appender "ServerGuiConsole" for logger config "root"
+[11:20:36] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[11:20:36] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[11:20:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:20:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:20:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:20:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:20:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:20:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:20:36] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[11:20:36] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[11:20:36] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.client.Minecraft
+[11:20:37] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bsb net.minecraft.client.multiplayer.WorldClient
+[11:20:37] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.client.multiplayer.WorldClient
+[11:20:37] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraftforge.client.GuiIngameForge net.minecraftforge.client.GuiIngameForge
+[11:20:37] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bud net.minecraft.client.entity.EntityPlayerSP
+
+[11:20:37] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bua net.minecraft.client.entity.AbstractClientPlayer
+
+[11:20:37] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.client.entity.AbstractClientPlayer
+
+[11:20:37] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+
+[11:20:37] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+
+[11:20:37] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[11:20:37] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
+[11:20:38] [Client thread/INFO] [minecraft/Minecraft]: Setting user: Gotve
+[11:20:40] [Client thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[11:20:40] [Client thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
+[11:20:42] [Client thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bhy net.minecraft.client.settings.KeyBinding
+[11:20:42] [Client thread/INFO] [net.optifine.reflect.Reflector]: [OptiFine] *** Reflector Forge ***
+[11:20:43] [Client thread/INFO] [net.optifine.reflect.Reflector]: [OptiFine] *** Reflector Vanilla ***
+[11:20:43] [Client thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class brs net.minecraft.client.model.ModelRenderer
+
+[11:20:43] [Client thread/WARN] [minecraft/GameSettings]: Skipping bad option: lastServer:
+[11:20:43] [Client thread/INFO] [minecraft/Minecraft]: LWJGL Version: 2.9.4
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine]
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] OptiFine_1.12.2_HD_U_G5
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] Build: 20210124-142939
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] OS: Windows 8.1 (amd64) version 6.3
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] LWJGL: 2.9.4
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] OpenGL: Intel(R) HD Graphics 5500, version 4.4.0 - Build 20.19.15.5171, Intel
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] OpenGL Version: 4.4.0
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] Maximum texture size: 16384x16384
+[11:20:44] [VersionCheck/INFO] [Config]: [OptiFine] Checking for new version
+[11:20:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] OpenGL Version: 4.4.0 - Build 20.19.15.5171
+[11:20:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Vendor:  Intel
+[11:20:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Renderer: Intel(R) HD Graphics 5500
+[11:20:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0
+[11:20:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[11:20:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[11:20:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[11:20:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Load shaders configuration.
+[11:20:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Shaders can not be loaded, Fast Render is enabled.
+[11:20:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] No shaderpack loaded.
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[11:20:44] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[11:20:44] [VersionCheck/INFO] [Config]: [OptiFine] Version found: G5
+[11:20:44] [Client thread/INFO] [FML]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_G5, enabling compatibility features
+[11:20:44] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 842977568 bytes (803 MB) / 1080033280 bytes (1030 MB) up to 3817865216 bytes (3641 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx4096m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML:
+	Loaded coremods (and transformers):
+XaeroMinimapPlugin (Xaeros_Minimap_25.2.0_Forge_1.12.jar)
+  xaero.common.core.transformer.ChunkTransformer
+  xaero.common.core.transformer.NetHandlerPlayClientTransformer
+  xaero.common.core.transformer.EntityPlayerTransformer
+  xaero.common.core.transformer.AbstractClientPlayerTransformer
+  xaero.common.core.transformer.WorldClientTransformer
+  xaero.common.core.transformer.EntityPlayerMPTransformer
+  xaero.common.core.transformer.EntityPlayerSPTransformer
+  xaero.common.core.transformer.PlayerListTransformer
+  xaero.common.core.transformer.SaveFormatTransformer
+  xaero.common.core.transformer.GuiIngameForgeTransformer
+  xaero.common.core.transformer.KeyBindingTransformer
+  xaero.common.core.transformer.MinecraftServerTransformer
+  xaero.common.core.transformer.GuiBossOverlayTransformer
+  xaero.common.core.transformer.ModelRendererTransformer
+XaeroWorldMapPlugin (XaerosWorldMap_1.39.4_Forge_1.12.jar)
+  xaero.map.core.transformer.ChunkTransformer
+  xaero.map.core.transformer.NetHandlerPlayClientTransformer
+  xaero.map.core.transformer.EntityPlayerTransformer
+  xaero.map.core.transformer.AbstractClientPlayerTransformer
+  xaero.map.core.transformer.WorldClientTransformer
+  xaero.map.core.transformer.EntityPlayerMPTransformer
+  xaero.map.core.transformer.PlayerListTransformer
+  xaero.map.core.transformer.SaveFormatTransformer
+  xaero.map.core.transformer.BiomeColorHelperTransformer
+  xaero.map.core.transformer.MinecraftServerTransformer
+  xaero.map.core.transformer.MinecraftTransformer
+	GL info: ' Vendor: 'Intel' Version: '4.4.0 - Build 20.19.15.5171' Renderer: 'Intel(R) HD Graphics 5500'
+[11:20:44] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
+[11:20:44] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[11:20:44] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[11:20:45] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[11:20:45] [Client thread/INFO] [FML]: Searching C:\Users\Sunrise\AppData\Roaming\ElyPrismLauncher\instances\Vanila+\minecraft\mods for mods
+[11:20:47] [Thread-3/INFO] [FML]: Using alternative sync timing : 200 frames of Display.update took 1475842700 nanos
+[11:20:48] [Client thread/INFO] [FML]: Forge Mod Loader has identified 12 mods to load
+[11:20:48] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, appleskin, waila, jei, onlyblocks, xaerominimap, xaeroworldmap] at CLIENT
+[11:20:48] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, appleskin, waila, jei, onlyblocks, xaerominimap, xaeroworldmap] at SERVER
+[11:20:49] [Client thread/INFO] [minecraft/SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AppleSkin, FMLFileResourcePack:Waila, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Only Blocks, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:Xaero's World Map, Modernity-f3-3.10.2.zip
+[11:20:50] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[11:20:50] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[11:20:50] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[11:20:50] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[11:20:50] [Client thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[11:20:50] [Client thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
+[11:20:50] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[11:20:50] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[11:20:50] [Client thread/INFO] [onlyblocks]: Only Blocks preparing for initialization
+[11:20:50] [Client thread/INFO] [FML]: Applying holder lookups
+[11:20:50] [Client thread/INFO] [FML]: Holder lookups applied
+[11:20:50] [Client thread/INFO] [FML]: Applying holder lookups
+[11:20:50] [Client thread/INFO] [FML]: Holder lookups applied
+[11:20:50] [Client thread/INFO] [FML]: Applying holder lookups
+[11:20:50] [Client thread/INFO] [FML]: Holder lookups applied
+[11:20:50] [Client thread/INFO] [FML]: Applying holder lookups
+[11:20:50] [Client thread/INFO] [FML]: Holder lookups applied
+[11:20:50] [Client thread/INFO] [FML]: Injecting itemstacks
+[11:20:50] [Client thread/INFO] [FML]: Itemstack injection complete
+[11:20:50] [Client thread/INFO] [Config]: [OptiFine] *** Reloading textures ***
+[11:20:50] [Client thread/INFO] [Config]: [OptiFine] Resource packs: Modernity-f3-3.10.2.zip
+[11:20:50] [Client thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[11:20:50] [Client thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
+[11:20:52] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[11:20:52] [Sound Library Loader/INFO] [minecraft/SoundManager]: Starting up SoundSystem...
+[11:20:52] [Thread-5/INFO] [minecraft/SoundManager]: Initializing LWJGL OpenAL
+[11:20:52] [Thread-5/INFO] [minecraft/SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:20:52] [Thread-5/INFO] [minecraft/SoundManager]: OpenAL initialized.
+[11:20:53] [Sound Library Loader/INFO] [minecraft/SoundManager]: Sound engine started
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] Mipmap levels: 4
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] Multitexture: false
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_connect/bookshelf_a.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_clear/glass.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_black/glass_black.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_blue/glass_blue.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_brown/glass_brown.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_brown/glass_pane_brown.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_cyan/glass_cyan.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_cyan/glass_pane_cyan.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_gray/glass_gray.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_gray/glass_pane_gray.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_green/glass_green.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_green/glass_pane_green.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_light_blue/glass_light_blue.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_light_blue/glass_pane_light_blue.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_lime/glass_lime.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_lime/glass_pane_lime.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_magenta/glass_magenta.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_orange/glass_orange.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_pink/glass_pink.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_purple/glass_purple.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_red/glass_pane_red.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_red/glass_red.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_silver/glass_pane_silver.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_silver/glass_silver.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_white/glass_pane_white.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_white/glass_white.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_yellow/glass_pane_yellow.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_yellow/glass_yellow.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/red_sandstone/red_sandstone_normal.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/red_sandstone_smooth/red_sandstone_smooth.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/sandstone/sandstone_normal.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/sandstone_smooth/sandstone_smooth.properties
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] Multipass connected textures: false
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] Multipass connected textures: false
+[11:20:55] [Client thread/INFO] [Config]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[11:20:56] [Client thread/INFO] [Config]: [OptiFine] Custom loader sprites: 3
+[11:20:56] [Client thread/INFO] [Config]: [OptiFine] Sprite dependencies: 5
+[11:20:57] [Client thread/INFO] [minecraft/TextureMap]: Created: 1024x512 textures-atlas
+[11:20:57] [Client thread/INFO] [Config]: [OptiFine] Animated sprites: 22
+[11:20:57] [Client thread/ERROR] [FML]: Exception loading model for variant onlyblocks:orange_brick_slab#normal
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model onlyblocks:orange_brick_slab#normal with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 18 more
+[11:20:57] [Client thread/ERROR] [FML]: Exception loading blockstate for the variant onlyblocks:orange_brick_slab#normal:
+java.lang.Exception: Could not load model definition for variant onlyblocks:orange_brick_slab
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:129) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model onlyblocks:blockstates/orange_brick_slab.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:251) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 17 more
+Caused by: java.io.FileNotFoundException: onlyblocks:blockstates/orange_brick_slab.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:104) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:79) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:244) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 17 more
+[11:20:57] [Client thread/ERROR] [FML]: Exception loading model for variant onlyblocks:onlyblocks:orange_brick_slab#inventory, normal location exception:
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model onlyblocks:item/onlyblocks:orange_brick_slab with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+Caused by: java.io.FileNotFoundException: onlyblocks:models/item/onlyblocks:orange_brick_slab.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 17 more
+[11:20:57] [Client thread/ERROR] [FML]: Exception loading model for variant onlyblocks:onlyblocks:orange_brick_slab#inventory, blockstate location exception:
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model onlyblocks:onlyblocks:orange_brick_slab#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 17 more
+[11:20:59] [Client thread/INFO] [FML]: Applying holder lookups
+[11:20:59] [Client thread/INFO] [FML]: Holder lookups applied
+[11:20:59] [Client thread/INFO] [jei]: Created: 128x256 textures-atlas
+[11:20:59] [Client thread/INFO] [onlyblocks]: DIRT BLOCK >> minecraft:dirt
+[11:20:59] [Client thread/INFO] [onlyblocks]: Only Blocks initialized
+[11:20:59] [Client thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2
+[11:21:00] [Client thread/WARN] [xaero.hud.minimap.MinimapLogs]: io exception while checking patreon: Online mod data expired! Date: Tue Apr 01 13:13:38 UZT 2025
+[11:21:01] [Client thread/ERROR] [xaero.map.WorldMap]: io exception while checking versions: Online mod data expired! Date: Tue Apr 01 13:13:38 UZT 2025
+[11:21:01] [Client thread/INFO] [FML]: Injecting itemstacks
+[11:21:01] [Client thread/INFO] [FML]: Itemstack injection complete
+[11:21:01] [Client thread/INFO] [onlyblocks]: Only Blocks disabled
+[11:21:01] [Client thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2
+[11:21:03] [Client thread/WARN] [xaero.hud.minimap.MinimapLogs]: io exception while checking versions: Online mod data expired! Date: Tue Apr 01 13:13:38 UZT 2025
+[11:21:03] [Client thread/INFO] [xaero.hud.minimap.MinimapLogs]: Registered player tracker system: minimap_synced
+[11:21:03] [Client thread/INFO] [xaero.hud.minimap.MinimapLogs]: Xaero's Minimap: World Map found!
+[11:21:03] [Client thread/INFO] [xaero.hud.minimap.MinimapLogs]: Optifine!
+[11:21:03] [Client thread/INFO] [xaero.hud.minimap.MinimapLogs]: Xaero's Minimap: No Vivecraft!
+[11:21:03] [Client thread/INFO] [xaero.map.WorldMap]: New world map region cache hash code: -1223491578
+[11:21:03] [Client thread/INFO] [xaero.map.WorldMap]: Registered player tracker system: map_synced
+[11:21:03] [Client thread/INFO] [xaero.map.WorldMap]: Xaero's WorldMap Mod: Xaero's minimap found!
+[11:21:03] [Client thread/INFO] [xaero.map.WorldMap]: Registered player tracker system: minimap_synced
+[11:21:03] [Client thread/INFO] [xaero.map.WorldMap]: Xaero's World Map: No Vivecraft!
+[11:21:03] [Client thread/INFO] [jei]: Starting JEI...
+[11:21:03] [Client thread/INFO] [jei]: Registering recipe categories...
+[11:21:03] [Client thread/INFO] [jei]: Registering recipe categories took 33.83 ms
+[11:21:03] [Client thread/INFO] [jei]: Registering mod plugins...
+[11:21:03] [Client thread/INFO] [jei]: Registering mod plugins took 270.2 ms
+[11:21:03] [Client thread/INFO] [jei]: Building recipe registry...
+[11:21:03] [Client thread/INFO] [jei]: Building recipe registry took 104.4 ms
+[11:21:03] [Client thread/INFO] [jei]: Building ingredient list...
+[11:21:03] [Client thread/INFO] [jei]: Building ingredient list took 42.53 ms
+[11:21:03] [Client thread/INFO] [jei]: Building ingredient filter...
+[11:21:04] [Client thread/INFO] [jei]: Building ingredient filter took 430.5 ms
+[11:21:04] [Client thread/INFO] [jei]: Building bookmarks...
+[11:21:04] [Client thread/INFO] [jei]: Building bookmarks took 12.86 ms
+[11:21:04] [Client thread/INFO] [jei]: Building runtime...
+[11:21:04] [Client thread/INFO] [jei]: Building runtime took 143.8 ms
+[11:21:04] [Client thread/INFO] [jei]: Optimizing memory usage...
+[11:21:04] [Client thread/INFO] [jei]: Optimizing memory usage took 65.52 ms
+[11:21:04] [Client thread/INFO] [jei]: Starting JEI took 1.316 s
+[11:21:04] [Client thread/INFO] [Waila]: Starting Waila...
+[11:21:04] [Client thread/INFO] [Waila]: Gathering annotated plugins...
+[11:21:04] [Client thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[11:21:04] [Client thread/INFO] [Waila]: Registering plugins...
+[11:21:04] [Client thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[11:21:04] [Client thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[11:21:04] [Client thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[11:21:04] [Client thread/INFO] [Waila]: Starting Waila took 65.69 ms
+[11:21:04] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 12 mods
+[11:21:04] [Client thread/WARN] [minecraft/GameSettings]: Skipping bad option: lastServer:
+[11:21:04] [Client thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class biz net.minecraft.client.gui.GuiBossOverlay
+[11:21:04] [Client thread/INFO] [mojang/NarratorWindows]: Narrator library for x64 successfully loaded
+[11:21:05] [Client thread/INFO] [net.optifine.Log]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[11:21:05] [Client thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class brz net.minecraft.client.network.NetHandlerPlayClient
+[11:21:05] [Client thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.client.network.NetHandlerPlayClient
+[11:21:05] [Client thread/INFO] [Config]: [OptiFine] *** Reloading custom textures ***
+[11:21:10] [Client thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[11:21:10] [Client thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
+[11:21:10] [Server thread/INFO] [minecraft/IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[11:21:10] [Server thread/INFO] [minecraft/IntegratedServer]: Generating keypair
+[11:21:10] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[11:21:11] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world blockbuster:model
+[11:21:11] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world blockbuster:director
+[11:21:11] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world blockbuster:green
+[11:21:11] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world examplemod:enderstone_ore
+[11:21:11] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world examplemod:green_bricks
+[11:21:11] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nicemod:banana_block
+[11:21:11] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world examplemod:solid_block
+[11:21:11] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world bananus:enderniumblock
+[11:21:11] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world blockbuster:dim_green
+[11:21:11] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world examplemod:orange_bricks
+[11:21:11] [Server thread/INFO] [FML]: Applying holder lookups
+[11:21:11] [Server thread/INFO] [FML]: Holder lookups applied
+[11:21:11] [Server thread/INFO] [FML]: Loading dimension 0 (Flat test world) (net.minecraft.server.integrated.IntegratedServer@39bcd468)
+[11:21:12] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 488 advancements
+[11:21:12] [Server thread/INFO] [FML]: Loading dimension -1 (Flat test world) (net.minecraft.server.integrated.IntegratedServer@39bcd468)
+[11:21:12] [Server thread/INFO] [FML]: Loading dimension 1 (Flat test world) (net.minecraft.server.integrated.IntegratedServer@39bcd468)
+[11:21:12] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for level 0
+[11:21:13] [Server thread/INFO] [FML]: Unloading dimension -1
+[11:21:13] [Server thread/INFO] [FML]: Unloading dimension 1
+[11:21:13] [Server thread/INFO] [minecraft/IntegratedServer]: Changing view distance to 9, from 10
+[11:21:15] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[11:21:15] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[11:21:15] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,onlyblocks@1.2.3,FML@8.0.99.99,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,xaerominimap@25.2.0,mcp@9.42,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,xaeroworldmap@1.39.4,waila@1.8.26,jei@4.16.1.1013
+[11:21:15] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[11:21:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[11:21:15] [Server thread/INFO] [minecraft/PlayerList]: Gotve[local:E:0e63d9f9] logged in with entity id 55 at (504.03861132099865, 4.0, -328.091561358789)
+[11:21:15] [Server thread/INFO] [minecraft/MinecraftServer]: Gotve joined the game
+[11:21:15] [Client thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.biome.BiomeColorHelper
+[11:21:15] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Gotve'/55, l='Flat test world', x=504.04, y=4.00, z=-328.09] connected. Sending ping
+[11:21:15] [Client thread/INFO] [xaero.map.WorldMap]: New world map session initialized!
+[11:21:16] [Client thread/INFO] [xaero.hud.minimap.MinimapLogs]: New Xaero hud session initialized!
+[11:21:17] [Server thread/INFO] [minecraft/IntegratedServer]: Saving and pausing game...
+[11:21:17] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'Flat test world'/overworld
+[11:21:18] [Netty Local Client IO #0/INFO] [Waila]: Received server authentication msg. Remote sync will be activated
+[11:21:18] [Client thread/INFO] [xaero.hud.minimap.MinimapLogs]: Reloading radar icon resources...
+[11:21:18] [Client thread/INFO] [xaero.hud.minimap.MinimapLogs]: Reloaded radar icon resources!
+[11:21:18] [Client thread/INFO] [xaero.hud.minimap.MinimapLogs]: Minimap updated server level id: -642645715 for world 0
+[11:21:18] [Client thread/INFO] [minecraft/AdvancementList]: Loaded 151 advancements
+[11:21:20] [Server thread/INFO] [minecraft/AnvilChunkLoader]: ThreadedAnvilChunkStorage (Flat test world): All chunks are saved
+[11:21:23] [Server thread/INFO] [minecraft/AnvilChunkLoader]: ThreadedAnvilChunkStorage (Flat test world): All chunks are saved
+[11:21:54] [Client thread/INFO] [xaero.map.WorldMap]: Finalizing world map session...
+[11:21:54] [Thread-7/INFO] [xaero.map.WorldMap]: World map force-cleaned!
+[11:21:55] [Client thread/INFO] [xaero.map.WorldMap]: World map session finalized.
+[11:21:55] [Client thread/INFO] [xaero.hud.minimap.MinimapLogs]: Xaero hud session finalized.
+[11:21:55] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+[11:21:55] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+[11:21:55] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+[11:21:55] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'Flat test world'/overworld
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension 0
+[11:21:55] [Server thread/INFO] [FML]: Applying holder lookups
+[11:21:55] [Server thread/INFO] [FML]: Holder lookups applied
+[11:21:56] [Client thread/FATAL] [minecraft/Minecraft]: Unreported exception thrown!
+java.lang.IllegalArgumentException: Cannot get property PropertyEnum{name=half, clazz=class net.minecraft.block.BlockSlab$EnumBlockHalf, values=[top, bottom]} as it does not exist in BlockStateContainer{block=onlyblocks:orange_brick_slab, properties=[]}
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_177229_b(BlockStateContainer.java:209) ~[awu$a.class:?]
+	at net.minecraft.block.BlockSlab.func_185496_a(BlockSlab.java:53) ~[arf.class:?]
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_185900_c(BlockStateContainer.java:468) ~[awu$a.class:?]
+	at net.minecraft.block.Block.func_180646_a(Block.java:480) ~[aow.class:?]
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_185890_d(BlockStateContainer.java:448) ~[awu$a.class:?]
+	at net.minecraft.world.World.func_190527_a(World.java:3174) ~[amu.class:?]
+	at net.minecraft.item.ItemBlock.func_179222_a(ItemBlock.java:127) ~[ahb.class:?]
+	at net.minecraft.client.multiplayer.PlayerControllerMP.func_187099_a(PlayerControllerMP.java:431) ~[bsa.class:?]
+	at net.optifine.override.PlayerControllerOF.func_187099_a(PlayerControllerOF.java:96) ~[PlayerControllerOF.class:?]
+	at net.minecraft.client.Minecraft.func_147121_ag(Minecraft.java:1579) ~[bib.class:?]
+	at net.minecraft.client.Minecraft.func_184117_aA(Minecraft.java:2254) ~[bib.class:?]
+	at net.minecraft.client.Minecraft.func_184118_az(Minecraft.java:2020) ~[bib.class:?]
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1808) ~[bib.class:?]
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1098) ~[bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+[11:21:57] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:func_179870_a:553]: ---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  XaeroMinimapPlugin (Xaeros_Minimap_25.2.0_Forge_1.12.jar)
+  XaeroWorldMapPlugin (XaerosWorldMap_1.39.4_Forge_1.12.jar)
+Contact their authors BEFORE contacting forge
+
+// My bad.
+
+Time: 4/2/25 11:21 AM
+Description: Unexpected error
+
+java.lang.IllegalArgumentException: Cannot get property PropertyEnum{name=half, clazz=class net.minecraft.block.BlockSlab$EnumBlockHalf, values=[top, bottom]} as it does not exist in BlockStateContainer{block=onlyblocks:orange_brick_slab, properties=[]}
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_177229_b(BlockStateContainer.java:209)
+	at net.minecraft.block.BlockSlab.func_185496_a(BlockSlab.java:53)
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_185900_c(BlockStateContainer.java:468)
+	at net.minecraft.block.Block.func_180646_a(Block.java:480)
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_185890_d(BlockStateContainer.java:448)
+	at net.minecraft.world.World.func_190527_a(World.java:3174)
+	at net.minecraft.item.ItemBlock.func_179222_a(ItemBlock.java:127)
+	at net.minecraft.client.multiplayer.PlayerControllerMP.func_187099_a(PlayerControllerMP.java:431)
+	at net.optifine.override.PlayerControllerOF.func_187099_a(PlayerControllerOF.java:96)
+	at net.minecraft.client.Minecraft.func_147121_ag(Minecraft.java:1579)
+	at net.minecraft.client.Minecraft.func_184117_aA(Minecraft.java:2254)
+	at net.minecraft.client.Minecraft.func_184118_az(Minecraft.java:2020)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1808)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1098)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_177229_b(BlockStateContainer.java:209)
+	at net.minecraft.block.BlockSlab.func_185496_a(BlockSlab.java:53)
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_185900_c(BlockStateContainer.java:468)
+	at net.minecraft.block.Block.func_180646_a(Block.java:480)
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_185890_d(BlockStateContainer.java:448)
+	at net.minecraft.world.World.func_190527_a(World.java:3174)
+	at net.minecraft.item.ItemBlock.func_179222_a(ItemBlock.java:127)
+	at net.minecraft.client.multiplayer.PlayerControllerMP.func_187099_a(PlayerControllerMP.java:431)
+	at net.optifine.override.PlayerControllerOF.func_187099_a(PlayerControllerOF.java:96)
+	at net.minecraft.client.Minecraft.func_147121_ag(Minecraft.java:1579)
+	at net.minecraft.client.Minecraft.func_184117_aA(Minecraft.java:2254)
+	at net.minecraft.client.Minecraft.func_184118_az(Minecraft.java:2020)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityPlayerSP['Gotve'/55, l='MpServer', x=504.41, y=4.00, z=-327.85]]
+	Chunk stats: MultiplayerChunkCache: 361, 361
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options:
+	Level spawn location: World: (512,4,-349), Chunk: (at 0,0,3 in 32,-22; contains blocks 512,0,-352 to 527,255,-337), Region: (1,-1; contains chunks 32,-32 to 63,-1, blocks 512,0,-512 to 1023,255,-1)
+	Level time: 228729 game time, 560484 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 23 total; [EntityPlayerSP['Gotve'/55, l='MpServer', x=504.41, y=4.00, z=-327.85], EntitySheep['Sheep'/34, l='MpServer', x=580.98, y=4.00, z=-394.85], EntityCow['Cow'/8, l='MpServer', x=426.83, y=4.00, z=-310.74], EntitySheep['Sheep'/10, l='MpServer', x=443.43, y=4.00, z=-354.73], EntityCow['Cow'/11, l='MpServer', x=463.82, y=4.00, z=-404.45], EntitySheep['Sheep'/12, l='MpServer', x=453.17, y=4.00, z=-367.30], EntityCow['Cow'/13, l='MpServer', x=475.15, y=4.00, z=-382.41], EntityItemFrame['entity.ItemFrame.name'/14, l='MpServer', x=494.03, y=6.50, z=-340.50], EntityCow['Cow'/15, l='MpServer', x=481.72, y=4.00, z=-286.82], EntityItemFrame['entity.ItemFrame.name'/16, l='MpServer', x=496.50, y=8.50, z=-302.97], EntityItemFrame['entity.ItemFrame.name'/17, l='MpServer', x=497.50, y=8.50, z=-302.97], EntityItemFrame['entity.ItemFrame.name'/18, l='MpServer', x=499.50, y=8.50, z=-302.97], EntityItemFrame['entity.ItemFrame.name'/19, l='MpServer', x=498.50, y=8.50, z=-302.97], EntitySheep['Sheep'/20, l='MpServer', x=519.41, y=4.00, z=-289.45], EntityChicken['Chicken'/21, l='MpServer', x=516.95, y=4.00, z=-396.82], EntityPig['Pig'/22, l='MpServer', x=515.35, y=4.00, z=-381.22], EntityItemFrame['entity.ItemFrame.name'/23, l='MpServer', x=524.50, y=4.50, z=-358.97], EntityItemFrame['entity.ItemFrame.name'/24, l='MpServer', x=522.50, y=4.50, z=-358.97], EntityPig['Pig'/27, l='MpServer', x=530.26, y=4.00, z=-381.57], EntityChicken['Chicken'/28, l='MpServer', x=543.13, y=4.00, z=-362.42], EntityItem['item.item.egg'/29, l='MpServer', x=543.52, y=4.00, z=-361.49], EntityHorse['Horse'/30, l='MpServer', x=539.05, y=4.00, z=-329.87], EntityCow['Cow'/31, l='MpServer', x=534.22, y=4.00, z=-271.38]]
+	Retry entities: 0 total; []
+	Server brand: fml,forge
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.func_72914_a(WorldClient.java:532)
+	at net.minecraft.client.Minecraft.func_71396_d(Minecraft.java:2741)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:427)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1270912400 bytes (1212 MB) / 1958739968 bytes (1868 MB) up to 3817865216 bytes (3641 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx4096m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2859 Optifine OptiFine_1.12.2_HD_U_G5 12 mods loaded, 12 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                 | Version      | Source                                  | Signature                                |
+	|:------ |:------------------ |:------------ |:--------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft          | 1.12.2       | minecraft.jar                           | None                                     |
+	| LCHIJA | mcp                | 9.42         | minecraft.jar                           | None                                     |
+	| LCHIJA | FML                | 8.0.99.99    | forge-1.12.2-14.23.5.2859-universal.jar | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge              | 14.23.5.2859 | forge-1.12.2-14.23.5.2859-universal.jar | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | xaerominimap_core  | 1.12.2-1.0   | minecraft.jar                           | None                                     |
+	| LCHIJA | xaeroworldmap_core | 1.12.2-1.0   | minecraft.jar                           | None                                     |
+	| LCHIJA | jei                | 4.16.1.1013  | jei.jar                                 | None                                     |
+	| LCHIJA | appleskin          | 1.0.14       | AppleSkin-mc1.12-1.0.14.jar             | None                                     |
+	| LCHIJA | waila              | 1.8.26       | Hwyla.jar                               | None                                     |
+	| LCHIJA | onlyblocks         | 1.2.3        | onlyblocks-1.2.3.jar                    | None                                     |
+	| LCHIJA | xaerominimap       | 25.2.0       | Xaeros_Minimap_25.2.0_Forge_1.12.jar    | None                                     |
+	| LCHIJA | xaeroworldmap      | 1.39.4       | XaerosWorldMap_1.39.4_Forge_1.12.jar    | None                                     |
+
+	Loaded coremods (and transformers):
+XaeroMinimapPlugin (Xaeros_Minimap_25.2.0_Forge_1.12.jar)
+  xaero.common.core.transformer.ChunkTransformer
+  xaero.common.core.transformer.NetHandlerPlayClientTransformer
+  xaero.common.core.transformer.EntityPlayerTransformer
+  xaero.common.core.transformer.AbstractClientPlayerTransformer
+  xaero.common.core.transformer.WorldClientTransformer
+  xaero.common.core.transformer.EntityPlayerMPTransformer
+  xaero.common.core.transformer.EntityPlayerSPTransformer
+  xaero.common.core.transformer.PlayerListTransformer
+  xaero.common.core.transformer.SaveFormatTransformer
+  xaero.common.core.transformer.GuiIngameForgeTransformer
+  xaero.common.core.transformer.KeyBindingTransformer
+  xaero.common.core.transformer.MinecraftServerTransformer
+  xaero.common.core.transformer.GuiBossOverlayTransformer
+  xaero.common.core.transformer.ModelRendererTransformer
+XaeroWorldMapPlugin (XaerosWorldMap_1.39.4_Forge_1.12.jar)
+  xaero.map.core.transformer.ChunkTransformer
+  xaero.map.core.transformer.NetHandlerPlayClientTransformer
+  xaero.map.core.transformer.EntityPlayerTransformer
+  xaero.map.core.transformer.AbstractClientPlayerTransformer
+  xaero.map.core.transformer.WorldClientTransformer
+  xaero.map.core.transformer.EntityPlayerMPTransformer
+  xaero.map.core.transformer.PlayerListTransformer
+  xaero.map.core.transformer.SaveFormatTransformer
+  xaero.map.core.transformer.BiomeColorHelperTransformer
+  xaero.map.core.transformer.MinecraftServerTransformer
+  xaero.map.core.transformer.MinecraftTransformer
+	GL info: ' Vendor: 'Intel' Version: '4.4.0 - Build 20.19.15.5171' Renderer: 'Intel(R) HD Graphics 5500'
+	Launched Version: 1.12.2
+	LWJGL: 2.9.4
+	OpenGL: Intel(R) HD Graphics 5500 GL version 4.4.0 - Build 20.19.15.5171, Intel
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: FreshAnimations_v1.6.zip (incompatible), Modernity-f3-3.10.2.zip
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	CPU: 4x Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+	OptiFine Version: OptiFine_1.12.2_HD_U_G5
+	OptiFine Build: 20210124-142939
+	Render Distance Chunks: 9
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.4.0 - Build 20.19.15.5171
+	OpenGlRenderer: Intel(R) HD Graphics 5500
+	OpenGlVendor: Intel
+	CpuCount: 4
+[11:21:57] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:func_179870_a:553]: #@!@# Game crashed! Crash report saved to: #@!@# C:\Users\Sunrise\AppData\Roaming\ElyPrismLauncher\instances\Vanila+\minecraft\crash-reports\crash-2025-04-02_11.21.56-client.txt
+AL lib: (EE) alc_cleanup: 1 device not closed
+Process exited with code -1.
