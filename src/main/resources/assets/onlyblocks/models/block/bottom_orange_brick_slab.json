@@ -1,0 +1,8 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "bottom": "onlyblocks:blocks/brick_1",
+    "top": "onlyblocks:blocks/brick_1",
+    "side": "onlyblocks:blocks/brick_1"
+  }
+}

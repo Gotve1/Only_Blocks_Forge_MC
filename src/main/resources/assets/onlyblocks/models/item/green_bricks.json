@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "onlyblocks:block/brick_2"
+    "layer0": "onlyblocks:blocks/brick_2"
   },
   "comment": "this json file is used to render the item in the inventory and in the hand as 2d item, eg flowers"
 }

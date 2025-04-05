@@ -2,7 +2,7 @@
   "forge_marker": 1,
   "defaults": {
     "textures": {
-      "cross": "onlyblocks:block/brick_2"
+      "cross": "onlyblocks:blocks/brick_2"
     }
   },
   "variants": {

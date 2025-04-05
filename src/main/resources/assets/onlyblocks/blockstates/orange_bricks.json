@@ -2,7 +2,7 @@
   "forge_marker": 1,
   "defaults": {
     "textures": {
-      "all": "onlyblocks:block/brick_1"
+      "all": "onlyblocks:blocks/brick_1"
     }
   },
   "variants": {

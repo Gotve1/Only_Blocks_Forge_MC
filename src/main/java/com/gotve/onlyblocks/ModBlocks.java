@@ -4,6 +4,7 @@ import com.gotve.onlyblocks.blocks.block.EnderStoneOre;
 
 import com.gotve.onlyblocks.blocks.block.GreenBricks;
 import com.gotve.onlyblocks.blocks.block.OrangeBricks;
+import com.gotve.onlyblocks.blocks.slab.DoubleOrangeBrickSlab;
 import com.gotve.onlyblocks.blocks.slab.HalfOrangeBrickSlab;
 import net.minecraft.block.Block;
 import net.minecraft.creativetab.CreativeTabs;
@@ -22,13 +23,16 @@ public class ModBlocks {
                 .setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
 
     public static HalfOrangeBrickSlab halfOrangeBrickSlab = (HalfOrangeBrickSlab) new HalfOrangeBrickSlab()
-                                              .setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+                                                              .setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+    public static Block doubleOrangeBrickSlab = new DoubleOrangeBrickSlab()
+                              .setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
 
     public static void register(IForgeRegistry<Block> registry) {
         registry.registerAll(
                 enderStoneOre,
                 orangeBricks,
                 halfOrangeBrickSlab,
+                doubleOrangeBrickSlab,
                 greenBricks
         );
     }
